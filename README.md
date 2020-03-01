@@ -1,4 +1,4 @@
-# Angular application
+# Angularjs basics
 
 directives (ng-app), expressions, filters, modules, and controllers
 
